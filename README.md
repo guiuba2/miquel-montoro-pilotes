@@ -20,4 +20,4 @@ User: admin@admin.com and password: admin are required to access this rest endpo
 * POST "/api/register"
 Register a client. Please ignore order fields in this step
 -------------------------------------------------------
-
+The program has integration tests for all rest endpoints.
